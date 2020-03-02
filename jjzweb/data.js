@@ -102,7 +102,6 @@ var data = [
   {"pathname":"西四路口 西向东","pointx":"116.379925","pointy":"39.930062","title":"西四路口","description":"西向东"},
   {"pathname":"政府街与西环路路口西向东","pointx":"116.233628","pointy":"40.225932","title":"政府街与西环路路口","description":"西向东"},
   {"pathname":"永安公园路与西环路路口北侧南向北","pointx":"116.233585","pointy":"40.220398","title":"永安公园路与西环路路口北侧","description":"南向北"},
-  {"pathname":"南环路与鼓楼南街路口南向北","pointx":"116.240312","pointy":"40.218533","title":"南环路与鼓楼南街路口","description":"南向北"},
   {"pathname":"南环路与东环路路口南向北","pointx":"116.247055","pointy":"40.218777","title":"南环路与东环路路口","description":"南向北"},
   {"pathname":"南环路与亢山路路口南向北","pointx":"116.257008","pointy":"40.219318","title":"南环路与亢山路路口","description":"南向北"},
   {"pathname":"府学路与水库路路口 东向西","pointx":"116.268444","pointy":"40.228087","title":"府学路与水库路路口","description":"东向西"},
